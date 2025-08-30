@@ -12,9 +12,9 @@
 This book reveals the universal patterns of defense and healing that operate across all living systems, from cellular immunity to societal resilience. By understanding these patterns, readers will gain powerful tools for designing more effective interventions in therapy, organizations, and policy.
 
 ### Progress
-- **Completed**: 3 chapters (Introduction + Chapters 1-2) with full navigation
-- **Drafted**: 40 chapters ready for completion
-- **Overall**: 43 total chapters (100% drafted, 7% complete)
+- **Completed**: 6 chapters (Introduction + Chapters 1-5) with full navigation
+- **Drafted**: 37 chapters ready for completion  
+- **Overall**: 43 total chapters (100% drafted, 14% complete)
 
 ---
 
@@ -48,9 +48,9 @@ This book reveals the universal patterns of defense and healing that operate acr
 
 ### Part II: The Core Pattern Language
 
-**Chapter 5: [Boundary & Gatekeeping](chapters/chapter-05.md)**  
-✅ *Drafted* | 6,000 word target  
-*Selective permeability and controlled access*
+**Chapter 5: [Boundary & Gatekeeping](chapters/chapter-05.md)** ⭐ *With Navigation*
+✅ *Complete* | 3,878 words  
+*Boundaries as intelligent filtering systems implementing selective permeability*
 
 **Chapter 6: [Recognition & Labeling](chapters/chapter-06.md)**  
 ✅ *Drafted* | 6,000 word target  

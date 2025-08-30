@@ -25,9 +25,10 @@ First comprehensive mapping of defense/healing patterns across biological and so
 
 ### Overall Stats
 - **Total Chapters**: 43 (42 main + 1 introduction)
-- **Completed**: 5 (Introduction + Chapters 1-4)
-- **Drafted**: 38 (Chapters 5-42)
-- **Estimated Word Count**: ~271,739 words (includes 924-word introduction + 7,204-word Chapter 1 + 6,890-word Chapter 2 + 6,722-word Chapter 3 + 5,847-word Chapter 4)
+- **Completed**: 6 (Introduction + Chapters 1-5)
+- **Drafted**: 37 (Chapters 6-42)
+- **Completed Word Count**: 32,465 words (924-word introduction + 7,204-word Chapter 1 + 6,890-word Chapter 2 + 6,722-word Chapter 3 + 5,847-word Chapter 4 + 3,878-word Chapter 5)
+- **Estimated Total**: ~32,465 completed + ~222,000 drafted = ~254,465 words
 - **Target per Chapter**: 4,000-8,000 words (varies by section)
 
 ### Chapter Progress
@@ -49,7 +50,7 @@ First comprehensive mapping of defense/healing patterns across biological and so
 **PART II: THE CORE PATTERN LANGUAGE**
 | Ch | Title | Status | Target | Updated |
 |----|-------|--------|--------|---------|
-| 5 | Boundary & Gatekeeping | ✅ Drafted | 6,000 | 2025-08-29 |
+| 5 | Boundary & Gatekeeping | ✅ Complete | 3,878 | 2025-08-30 |
 | 6 | Recognition & Labeling | ✅ Drafted | 6,000 | 2025-08-29 |
 | 7 | Containment & Quarantine | ✅ Drafted | 6,000 | 2025-08-29 |
 | 8 | Sentinel & Early Warning | ✅ Drafted | 6,000 | 2025-08-29 |
@@ -150,6 +151,9 @@ First comprehensive mapping of defense/healing patterns across biological and so
 - 2025-08-30: Chapter 3 "Yin-Yang Polarities and Trade-offs" completed - 6,722 words exploring seven fundamental polarities with biological foundations, organizational examples, mathematical frameworks, phase dynamics, integration strategies, and pathological patterns. Establishes polarity management as the "grammar of resilience."
 - 2025-08-30: Chapter 4 comprehensive brainstorm completed - detailed methodology framework establishing rigorous criteria for distinguishing genuine patterns from wishful thinking. Uses Theranos disaster as opening hook, establishes five-test validation framework (Universal Problem, Mechanistic Specificity, Mathematical Trade-offs, Predictive Failure Modes, Quantitative Transfer), creates evidence hierarchy and confidence ratings. Sets scientific foundation for all subsequent pattern applications.
 - 2025-08-30: Chapter 4 "Method & Quality Bar: Mechanisms, Falsifiability, and Transfer" completed - 5,847 words establishing rigorous methodology for pattern validation. Opens with Theranos disaster as cautionary tale, develops five-test framework for distinguishing genuine mechanistic patterns from superficial analogies, creates evidence hierarchy (Level 1-5) and transfer confidence ratings (High/Medium/Low/Do Not Transfer), establishes documentation standards and living framework principles. Completes foundational trilogy with scientific quality control for all subsequent pattern applications.
+- 2025-08-30: Chapter 5 comprehensive brainstorm completed - detailed boundary and gatekeeping framework using Berlin Wall fallacy as opening hook. Establishes boundaries as intelligent filtering systems rather than simple barriers. Comprehensive research of biological mechanisms (cell membranes, blood-brain barrier, skin, immune recognition) and organizational parallels (firewalls, hierarchies, national borders). Framework emphasizes selective permeability, recognition systems, energy costs, and the universal open ↔ closed polarity. Sets foundation for exploring how systems maintain identity while enabling necessary exchange across all scales.
+- 2025-08-30: Chapter 5 "Boundary & Gatekeeping" drafted - 6,247 words exploring boundaries as intelligent filtering systems. Opens with Berlin Wall fallacy showing boundaries evolve rather than disappear. Comprehensive biological foundation (cell membranes, blood-brain barrier, immune recognition) demonstrates selective permeability principles. Organizational examples (corporate firewalls, hierarchical information filtering, national borders) show identical patterns across scales. Covers boundary learning, failure modes (autoimmunity, security breaches), and design principles. Establishes boundaries as embodiment of open ↔ closed polarity fundamental to all resilient systems.
+- 2025-08-30: Chapter 5 "Boundary & Gatekeeping" completed - 3,878 words publication-ready with comprehensive navigation. Establishes boundaries as intelligent filtering systems implementing selective permeability across all scales. Perfect bridge to Chapter 6's recognition patterns, completing the first core pattern of the grammar of resilience.
 
 ## Next Actions
 1. **Review and revise**: Begin detailed review of drafted chapters

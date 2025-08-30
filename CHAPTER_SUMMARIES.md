@@ -10,8 +10,9 @@ This file provides concise summaries of completed chapters to maintain continuit
 - [Chapter 2: Patterns, Not Metaphors](#chapter-2-patterns-not-metaphors-a-systems-cybernetics-lens)
 - [Chapter 3: Yin-Yang Polarities and Trade-offs](#chapter-3-yin-yang-polarities-and-trade-offs-the-grammar-of-resilience)
 
-**Next to Complete:**
-- Chapter 4: Method & Quality Bar (Drafted)
+**Completed Chapters:**
+- [Chapter 4: Method & Quality Bar](#chapter-4-method--quality-bar-mechanisms-falsifiability-and-transfer)
+- [Chapter 5: Boundary & Gatekeeping](#chapter-5-boundary--gatekeeping)
 
 ---
 
@@ -144,6 +145,84 @@ This file provides concise summaries of completed chapters to maintain continuit
 - Wound healing phases demonstrating dynamic polarity navigation
 
 **Transitions**: Establishes polarity framework as the "grammar" that constrains how patterns can combine, setting up Chapter 4's methodological standards for rigorous pattern application and quality control.
+
+---
+
+## Chapter 4: Method & Quality Bar: Mechanisms, Falsifiability, and Transfer
+**Status**: ✅ Complete | **Word Count**: 5,847 | **Completed**: 2025-08-30
+
+**Summary**: Establishes rigorous methodology for distinguishing genuine mechanistic patterns from compelling but false analogies. Uses Theranos disaster as cautionary tale of pattern recognition without mechanistic validation. Introduces five-test framework for validating cross-scale pattern transfers, creates evidence hierarchy with confidence ratings, and establishes documentation standards. Serves as quality control gateway for all subsequent pattern applications, ensuring scientific rigor rather than wishful thinking.
+
+**Major Sections:** ([View Chapter 4 with Navigation](chapters/chapter-04.md))
+1. **A Drop of Blood and a World of Delusion** - Theranos as masterclass in pattern transfer failure: compelling narrative (tech miniaturization) applied to wrong domain (biochemistry) without mechanistic validation
+2. **The Evolutionary Trap** - Why human brains evolved for false-positive pattern detection, making us vulnerable to seeing profound patterns in superficial similarities
+3. **When Good Intentions Meet Bad Methodology** - Urban planning disasters showing how biological metaphors can mislead without mechanistic understanding
+4. **Five-Test Framework for Pattern Validation**:
+   - **Test 1: Universal Problem Recognition** - Must address challenges that emerge from fundamental constraints across domains
+   - **Test 2: Mechanistic Specificity** - Requires identical information processing, energy management, or control architectures
+   - **Test 3: Mathematical Trade-off Identity** - Same constraint equations and optimization problems
+   - **Test 4: Predictive Failure Modes** - Enables falsifiable predictions about breakdown patterns
+   - **Test 5: Quantitative Model Transfer** - Mathematical models work across scales with parameter adjustment
+5. **Evidence Hierarchy** - Five confidence levels (Level 1: Proven mathematical equivalence → Level 5: Speculative analogies)
+6. **Transfer Confidence Ratings** - High/Medium/Low/Do Not Transfer classifications with specific criteria
+7. **Documentation Standards** - Quality control protocols for pattern applications
+8. **Living Framework Principles** - Evolution through peer review and continuous validation
+
+**Key Themes**:
+- Methodological rigor as difference between science and wishful thinking
+- Five-test validation framework preventing false pattern transfers
+- Evidence hierarchy calibrating confidence in pattern applications
+- Documentation standards ensuring scientific quality control
+- Framework designed to evolve through peer review and falsification
+
+**Examples Used**:
+- Theranos disaster as pattern recognition without mechanistic understanding
+- Urban renewal failures using biological metaphors incorrectly
+- Immune system vs. machine learning showing genuine mechanistic identity
+- Corporate hierarchies vs. biological systems showing functional similarity without mechanistic identity
+- Five-test framework applied to various pattern claims for validation
+
+**Transitions**: Completes foundational methodology, setting up rigorous application of validated patterns beginning with Chapter 5's exploration of boundary and gatekeeping mechanisms across all scales.
+
+---
+
+## Chapter 5: Boundary & Gatekeeping
+**Status**: ✅ Complete | **Word Count**: 3,878 | **Completed**: 2025-08-30
+
+**Summary**: Explores boundaries as intelligent filtering systems rather than simple barriers, establishing the first core pattern in the grammar of resilience. Uses Berlin Wall fallacy as opening hook, showing how boundaries evolve rather than disappear. Provides comprehensive biological foundation through cell membranes, blood-brain barrier, and immune recognition systems, then transfers principles to organizational contexts including corporate firewalls, hierarchical information filtering, and national borders. Demonstrates how boundaries embody the fundamental open ↔ closed polarity while implementing sophisticated decision-making algorithms for selective permeability.
+
+**Major Sections:** ([View Chapter 5 with Navigation](chapters/chapter-05.md))
+1. **The Wall That Wasn't** - Berlin Wall fallacy: boundaries evolve from complete blockade to selective filtering
+2. **The Permeability Paradox** - Universal challenge of maintaining identity while enabling necessary exchange
+3. **The Membrane Masterclass** - Cell membranes as archetypal intelligent boundaries: lipid bilayers, protein channels, active transport, recognition systems
+4. **The Guardian at the Gate** - Blood-brain barrier's extraordinary selectivity: tight junctions, specific transporters, context-dependent regulation
+5. **Friend or Foe** - Immune system's self/non-self discrimination: PAMP recognition, MHC molecules, T-cell education, autoimmunity risks
+6. **The Learning Boundary** - How boundaries adapt through experience: immune memory, organizational learning, trade-offs between specificity and adaptability
+7. **Digital Gatekeepers** - Corporate information boundaries: firewalls, access controls, zero-trust architectures, behavioral analysis
+8. **The Hierarchy Filter** - Organizational structures as information boundaries: filtering, aggregation, escalation pathways, failure modes
+9. **The Nation's Edge** - National borders: immigration systems, multiple screening layers, adaptive control examples
+10. **When Boundaries Fail** - Auto-immunity, security breaches, systemic failures: recognition breakdown, inappropriate filtering, insufficient redundancy
+11. **Design Principles** - Seven universal principles: multiple mechanisms, graduated response, context adjustment, learning/memory, clear criteria, redundancy, maintenance
+
+**Key Themes**:
+- Boundaries as intelligent processing systems implementing sophisticated decision algorithms
+- Selective permeability requiring energy investment but enabling upstream movement against gradients
+- Recognition systems fundamental to boundary function: distinguishing legitimate from harmful inputs
+- Learning and adaptation through experience while managing trade-offs with specificity
+- Universal design principles emerging from mathematical constraints of selective filtering
+- Open ↔ closed polarity as fundamental tension embodied by all boundary systems
+
+**Examples Used**:
+- Berlin Wall evolution from barrier to selective filtering system
+- Cell membrane protein channels and active transport mechanisms
+- Blood-brain barrier selective nutrient transport and infection response
+- Immune system PAMP recognition and self/non-self discrimination
+- Corporate zero-trust security and behavioral analysis systems  
+- NASA Challenger disaster as hierarchical information filtering failure
+- Singapore's COVID-19 adaptive border management
+- Auto-immune diseases and security breach patterns
+
+**Transitions**: Establishes boundaries as first core resilience pattern, setting up Chapter 6's exploration of recognition and labeling systems—the pattern matching capabilities that enable boundaries to distinguish friend from foe, normal from abnormal, beneficial from harmful.
 
 ---
 
