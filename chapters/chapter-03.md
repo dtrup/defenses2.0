@@ -1,6 +1,6 @@
 # Chapter 3: Yin-Yang Polarities and Trade-offs: The Grammar of Resilience
 
-**Status**: ✍️ Drafted | **Word Count**: 5,847 | **Completed**: 2025-08-30
+**Status**: ✅ Complete | **Word Count**: 6,722 | **Completed**: 2025-08-30
 
 ## Chapter Navigation
 
@@ -447,6 +447,6 @@ But theory without quality control can mislead as easily as it illuminates. How 
 The dance never stops. Every living system, at every moment, is navigating these fundamental tensions. Learning to see this dance—and eventually to participate consciously in its choreography—is the path to genuine resilience literacy.
 
 ---
-**Progress**: ✅ Brainstorm → ✅ Outline → ✍️ Draft → ⬜ Review → ⬜ Complete
+**Progress**: ✅ Brainstorm → ✅ Outline → ✅ Draft → ✅ Review → ✅ Complete
 
 <script src="https://hypothes.is/embed.js" async></script>
