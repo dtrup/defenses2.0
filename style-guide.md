@@ -1,40 +1,40 @@
 # Writing Style Guide
 
-> **Last Updated**: [Date] | **Book**: [Book Title] | **Genre**: [Genre]
+> **Last Updated**: 2025-08-29 | **Book**: Defense & Healing Across Living Systems | **Genre**: Non-fiction (Systems/Patterns)
 
 ## Voice & Tone
 
 ### Core Voice
-- **Authority Level**: [Expert/Knowledgeable/Learning] - How authoritative should you sound?
-- **Formality**: [Academic/Professional/Conversational/Casual] - How formal is the language?
-- **Personality**: [Serious/Witty/Warm/Direct] - What personality comes through?
+- **Authority Level**: Expert - Drawing from deep knowledge while remaining accessible
+- **Formality**: Professional-Conversational - Serious topics with engaging delivery
+- **Personality**: Warm-Direct - Caring about outcomes, clear about mechanisms
 
 ### Tone Characteristics  
-- **Engagement Style**: [Narrative/Analytical/Instructional] - How do you engage readers?
-- **Humor**: [None/Dry/Warm/Playful] - What kind of humor, if any?
-- **Technical Approach**: [Accessible/Moderate/Advanced] - How technical to get?
+- **Engagement Style**: Analytical-Narrative - Lead with concrete examples, explain patterns
+- **Humor**: Warm - Occasional light moments to humanize complex topics
+- **Technical Approach**: Accessible-Moderate - Complex ideas made clear with precision
 
 ## Writing Principles
 
 ### Core Rules
-1. **Clarity over cleverness** - Make complex ideas accessible
-2. **Show, then tell** - Use examples before abstract principles  
-3. **Vary your rhythm** - Mix short punchy sentences with flowing passages
-4. **Honor the reader** - Never waste their time or talk down to them
+1. **Patterns over metaphors** - Focus on mechanisms, not surface similarities
+2. **Biology first, then transfer** - Ground in concrete biological examples before generalizing
+3. **Systems thinking** - Show connections and trade-offs, not isolated phenomena
+4. **Actionable insights** - Every pattern should enable better decisions
 
-### Specific Guidelines
-- **Sentence length**: Aim for average 15-20 words, but vary dramatically
-- **Paragraph length**: 3-6 sentences typically, but break for emphasis
-- **Examples**: Use specific, concrete cases rather than generic hypotheticals
-- **Transitions**: Link ideas explicitly - don't make readers guess connections
-- **Metaphors**: Use sparingly and make them memorable when you do
+### Specific Guidelines for Defense/Healing Content
+- **Structure**: Problem → Biological mechanism → Transfer principles → Applications
+- **Examples**: Start cellular/tissue, move to psychological, then organizational/societal
+- **Trade-offs**: Always include the polarities and tensions (🌓 sections)
+- **Falsifiability**: Make predictions that could be wrong
+- **Practical value**: End with concrete applications and practice prompts
 
 ### Avoid These Patterns
-- ❌ "It's worth noting that..." (just note it)
-- ❌ "In order to understand X, we must..." (just explain X)
-- ❌ "As we've seen..." (readers remember, don't remind them)
-- ❌ Overuse of "utilize" (use "use")
-- ❌ Weak openings like "This chapter explores..."
+- ❌ Vague metaphors without mechanistic grounding
+- ❌ "Like a..." without explaining the actual similarity
+- ❌ Pattern claims without transfer criteria or failure modes
+- ❌ Biological determinism or oversimplification
+- ❌ Solutions without acknowledging trade-offs
 
 ## Chapter Structure Standards
 

@@ -1,9 +1,9 @@
 {
-  "title": "Your Book Title",
-  "author": "Your Name",
+  "title": "Defense & Healing Across Living Systems",
+  "author": "DTP",
   "genre": "non-fiction",
-  "target_words": 80000,
-  "chapter_target": 4000,
+  "target_words": 100000,
+  "chapter_target": 4-7000,
   "style": "engaging-authoritative",
   "publishing": {
     "github_pages": true,
