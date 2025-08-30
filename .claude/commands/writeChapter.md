@@ -14,12 +14,13 @@ Write the complete chapter using your brainstorm as the roadmap.
    - @brainstorms/chapter-$1-brainstorm.md - your detailed plan and research
    - @style-guide.md - voice, tone, and writing principles
    - @book.config.json - targets and style preferences
-   - @chapters/chapter-$1.md - existing structure to build on
+   - @chapters/chapter-$1.md - existing chapter content to build upon and enhance
    - @CHAPTER_SUMMARIES.md - summaries with major sections of all completed chapters for continuity and navigation
    - Read the immediately previous chapter (chapter-$(($1-1)).md) for direct continuity
    - Read 1-2 other recent completed chapters to maintain voice consistency
 
 2. **Execute the writing plan**:
+   - **Build on existing**: Enhance and expand the existing chapter content
    - **Open with impact**: Use the hook from your brainstorm
    - **Follow your arc**: Implement the narrative structure you planned  
    - **Deploy examples**: Use the specific stories/cases you researched

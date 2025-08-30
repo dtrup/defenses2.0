@@ -4,7 +4,7 @@
   "genre": "non-fiction",
   "target_words": 100000,
   "chapter_target": 4-7000,
-  "style": "engaging-authoritative",
+  "style": "engaging-authoritative, occasional humour. Malcolm Gladweel meets R. Feynman meets D. Sedaris",
   "publishing": {
     "github_pages": true,
     "hypothesis_comments": true

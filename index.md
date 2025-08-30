@@ -12,9 +12,9 @@
 This book reveals the universal patterns of defense and healing that operate across all living systems, from cellular immunity to societal resilience. By understanding these patterns, readers will gain powerful tools for designing more effective interventions in therapy, organizations, and policy.
 
 ### Progress
-- **Completed**: 2 chapters (Introduction + Chapter 1) with full navigation
-- **Drafted**: 41 chapters ready for completion
-- **Overall**: 43 total chapters (100% drafted, 5% complete)
+- **Completed**: 3 chapters (Introduction + Chapters 1-2) with full navigation
+- **Drafted**: 40 chapters ready for completion
+- **Overall**: 43 total chapters (100% drafted, 7% complete)
 
 ---
 
@@ -35,8 +35,8 @@ This book reveals the universal patterns of defense and healing that operate acr
 *Why every living system balances protection and repair - includes 4 recurring motifs and 4 constraint types*
 
 **Chapter 2: [Patterns, Not Metaphors: A Systems & Cybernetics Lens](chapters/chapter-02.md)**  
-✅ *Drafted* | 6,000 word target  
-*The rigorous methodology behind pattern transfer*
+✅ *Complete* | 6,890 words | ⭐ *With Navigation*  
+*The rigorous methodology behind pattern transfer - cybernetic principles and Apollo 13 crisis response*
 
 **Chapter 3: [Yin-Yang Polarities and Trade-offs: The Grammar of Resilience](chapters/chapter-03.md)**  
 ✅ *Drafted* | 5,500 word target  

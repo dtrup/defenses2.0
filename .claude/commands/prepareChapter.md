@@ -14,6 +14,7 @@ Create a comprehensive brainstorm that will guide the chapter writing process.
    - @BOOK_SUMMARY.md - see progress and thematic threads so far  
    - @style-guide.md - internalize the voice and approach
    - @book.config.json - chapter targets and style preferences
+   - @chapters/chapter-$1.md - existing chapter content to build upon
    - Previous chapters for voice consistency and continuity
 
 2. **Research phase** (if needed):
@@ -22,11 +23,13 @@ Create a comprehensive brainstorm that will guide the chapter writing process.
    - Note authoritative sources and quotable experts
 
 3. **Create comprehensive brainstorm** in `brainstorms/chapter-$1-brainstorm.md`:
+   - **Existing content assessment**: What's already drafted and what needs work?
    - **Core thesis**: What's the ONE key insight this chapter delivers?
    - **Narrative hook**: How does it open compellingly?
    - **Key examples**: 3-5 specific stories/cases that illustrate the points
    - **Chapter arc**: How does it flow from opening to conclusion?
    - **Connections**: Links to previous chapters and setup for next ones
+   - **Enhancement plan**: How to build on existing content
    - **Research notes**: Sources needed, facts to verify, experts to reference
    - **Potential problems**: What could go wrong and how to avoid it
 

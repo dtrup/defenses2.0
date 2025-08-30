@@ -25,9 +25,9 @@ First comprehensive mapping of defense/healing patterns across biological and so
 
 ### Overall Stats
 - **Total Chapters**: 43 (42 main + 1 introduction)
-- **Completed**: 2 (Introduction + Chapter 1)
-- **Drafted**: 41 (Chapters 2-42)
-- **Estimated Word Count**: ~252,280 words (includes 924-word introduction + 7,204-word Chapter 1)
+- **Completed**: 3 (Introduction + Chapters 1-2)
+- **Drafted**: 40 (Chapters 3-42)
+- **Estimated Word Count**: ~259,170 words (includes 924-word introduction + 7,204-word Chapter 1 + 6,890-word Chapter 2)
 - **Target per Chapter**: 4,000-8,000 words (varies by section)
 
 ### Chapter Progress
@@ -42,8 +42,8 @@ First comprehensive mapping of defense/healing patterns across biological and so
 | Ch | Title | Status | Target | Updated |
 |----|-------|--------|--------|---------|
 | 1 | Why Defense *and* Healing? | ✅ Complete | 7,204 | 2025-08-29 |
-| 2 | Patterns, Not Metaphors | ✅ Drafted | 6,000 | 2025-08-29 |
-| 3 | Yin-Yang Polarities and Trade-offs | ✅ Drafted | 5,500 | 2025-08-29 |
+| 2 | Patterns, Not Metaphors | ✅ Complete | 6,890 | 2025-08-30 |
+| 3 | Yin-Yang Polarities and Trade-offs | ✍️ Drafted | 5,847 | 2025-08-30 |
 | 4 | Method & Quality Bar | ✅ Drafted | 5,500 | 2025-08-29 |
 
 **PART II: THE CORE PATTERN LANGUAGE**
@@ -143,6 +143,11 @@ First comprehensive mapping of defense/healing patterns across biological and so
 - 2025-08-29: Chapter 1 brainstorm completed - comprehensive analysis and enhancement plan created
 - 2025-08-29: Introduction "The Cut That Teaches" completed - 924 words, publication ready
 - 2025-08-29: Chapter 1 "Why Defense *and* Healing?" completed - 7,204 words, publication ready
+- 2025-08-30: Chapter 2 comprehensive brainstorm completed - detailed enhancement plan for cybernetics framework
+- 2025-08-30: Chapter 2 "Patterns, Not Metaphors" completely rewritten to match Chapter 1 quality - 6,890 words with rich Apollo 13 narrative and cybernetic framework
+- 2025-08-30: Chapter 2 "Patterns, Not Metaphors" completed - publication ready with navigation and cybernetic methodology established
+- 2025-08-30: Chapter 3 comprehensive brainstorm completed - detailed polarity management framework with heart paradox opening and seven core polarities mapped across biological/organizational examples
+- 2025-08-30: Chapter 3 "Yin-Yang Polarities and Trade-offs" completed - 5,847 words with heart paradox opening, seven core polarities with biological foundations and organizational parallels, phase dynamics analysis, and polarity management strategies
 
 ## Next Actions
 1. **Review and revise**: Begin detailed review of drafted chapters
